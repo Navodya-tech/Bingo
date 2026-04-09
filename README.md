@@ -1,6 +1,6 @@
 # Bingo
 
-A modern, real-time chat application built with React Native, featuring user authentication, contact management, and seamless messaging.
+A modern, simple real-time chat application built with React Native, featuring user authentication, contact management, and seamless messaging.
 
 ## ✨ Features
 
