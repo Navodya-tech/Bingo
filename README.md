@@ -2,7 +2,7 @@
 
 A modern, real-time chat application built with React Native, featuring user authentication, contact management, and seamless messaging.
 
-## Features
+## ✨ Features
 
 - **User Authentication**: Secure sign-up and sign-in functionality
 - **Real-time Messaging**: Instant chat with WebSocket integration
@@ -11,7 +11,7 @@ A modern, real-time chat application built with React Native, featuring user aut
 - **Theme Support**: Dark/light theme switching
 - **Cross-platform**: Works on iOS and Android
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend**: React Native, TypeScript
 - **Styling**: NativeWind (Tailwind CSS for React Native)
@@ -26,7 +26,7 @@ A modern, real-time chat application built with React Native, featuring user aut
 - React Native CLI or Expo CLI
 - iOS Simulator (for iOS development) or Android Studio (for Android development)
 
-## Installation
+## 📦 Installation
 
 1. Clone the repository:
    ```bash
@@ -57,14 +57,16 @@ A modern, real-time chat application built with React Native, featuring user aut
    - For iOS: `npm run ios`
    - For Android: `npm run android`
 
-## Usage
+## 💡 Usage
 
 1. Launch the app on your device or simulator.
 2. Sign up or sign in with your credentials.
 3. Add contacts to start chatting.
 4. Enjoy real-time messaging!
 
-## Project Structure
+---
+
+## 📁 Project Structure
 
 ```
 src/
@@ -76,7 +78,7 @@ src/
 └── util/         # Utilities (e.g., date formatting, validation)
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -86,15 +88,23 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request.
 
-## License
+---
 
-This project is licensed under the MIT License - Feel free to use.
+## 📂 Screenshots
 
-## Screenshots
+<img src="screenshots/bin1.jpeg" width="250px" alt="1">
+<img src="screenshots/bin2.jpeg" width="250px" alt="2">
+<img src="screenshots/bin3.jpeg" width="250px" alt="3">
+<img src="screenshots/bin4.jpeg" width="250px" alt="4">
+<img src="screenshots/bin5.jpeg" width="250px" alt="5">
+<img src="screenshots/bin6.jpeg" width="250px" alt="6">
+<img src="screenshots/bin7.jpeg" width="250px" alt="7">
 
-(Add screenshots here if available)
+---
 
+## 📄 License
 
+This project is licensed under the MIT License - Feel free to use it as u wish
 
 ---
 
