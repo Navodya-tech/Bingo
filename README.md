@@ -29,10 +29,7 @@ A modern, simple real-time chat application built with React Native, featuring u
 ## 📦 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/chatapp.git
-   cd chatapp
-   ```
+https://github.com/Navodya-tech/Bingo.git
 
 2. Install dependencies:
    ```bash
